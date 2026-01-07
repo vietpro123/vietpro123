@@ -109,18 +109,6 @@ Bash / YAML  █▓░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vietpro123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://vietpro123.github.io/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/vietpro123)
-
-</div>
-
----
-
 <div align="center">
 
 > **“WordPress scales when engineers treat it like software, not a page builder.”**
