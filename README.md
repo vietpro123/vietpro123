@@ -10,38 +10,73 @@
 </div>
 
 ---
+## 🧠 Professional Summary
 
-## 🚀 About Me
+Senior **Backend & WordPress Engineer** with **10+ years of experience** in backend development using **Pure PHP, Laravel, and CakePHP**, and **7+ years specializing in advanced WordPress solutions**.
 
-I'm a **Senior WordPress & PHP Engineer** based in Vietnam with over **10 years of experience** building, customizing, and scaling **WordPress-based products and platforms**.
+I have a strong track record of building **production-ready products from scratch**, with a strong focus on **scalability, maintainability, security, and real-world performance**.  
+My work consistently delivers business value and long-term stability for clients and teams.
 
-I specialize in **custom WordPress themes & plugins**, **WooCommerce**, and **backend architecture using PHP (Laravel, CakePHP)**.  
-I focus heavily on **performance, security, scalability**, and **clean, maintainable code**.
-
-In recent years, I’ve also been integrating **AI solutions (GPT, RAG)** into WordPress and backend systems to automate workflows and enhance user experience.
-
-I believe WordPress is not just a CMS — it’s a **powerful application framework** when built correctly.
+- ⭐ **100% Job Success Score** & consistent **5-star reviews on Upwork**
+- 🚀 **200+ websites delivered** using Laravel & WordPress over the past decade
+- 🧩 Experienced in **custom development**, **system architecture**, and **long-term products**
+- 🤝 Trusted partner for SaaS, startups, and enterprise-level platforms
 
 ---
 
-## 🧩 What I Do with WordPress
+## ✅ Why Work With Me
 
-- Build **custom WordPress themes** (no bloated builders)
-- Develop **custom plugins** following WordPress coding standards
-- Extend **WooCommerce** (checkout, payments, custom logic)
-- Optimize **performance & Core Web Vitals**
-- Secure WordPress sites (hardening, audits, best practices)
-- Integrate **REST APIs & third-party services**
-- Connect WordPress with **AI services (GPT, automation)**
-- Maintain & refactor **legacy WordPress systems**
-- Scale WordPress for **high-traffic websites**
+- **10+ years** of backend development with **PHP, Laravel, CakePHP**  
+  → clean, secure, scalable, and maintainable code
+- **7+ years** of full-stack development with **WordPress + Elementor**
+- **Advanced Elementor expertise**:
+  - Custom Widgets
+  - Theme Builder
+  - Performance & Core Web Vitals optimization
+- Strong experience with:
+  - Custom WordPress Themes & Plugins
+  - Elementor (Widgets & Extensions)
+  - WooCommerce
+  - WP REST API
+  - Gutenberg (Blocks & Extensions)
+- Frontend & interaction knowledge:
+  - jQuery
+  - ReactJS (Gutenberg)
+- UI/UX–oriented mindset:  
+  → I focus on building **smooth user experiences**, not just functional pages
+- Fast, reliable communication & consistent on-time delivery
 
+---
+
+## 🧩 Selected Projects & Contributions
+
+- **Pure PHP Platform**  
+  https://www.deposyt.com/
+
+- **Laravel LMS System**  
+  https://www.culture.gr.jp/
+
+- **Themesflat Addons for Elementor**  
+  50,000+ active installs  
+  https://wordpress.org/plugins/themesflat-addons-for-elementor/
+
+- **Woostify – ReactJS & Gutenberg-based WordPress Theme**  
+  40,000+ downloads  
+  https://wordpress.org/themes/woostify/
+
+- **Aqua Theme (ThemeForest)**  
+  1,600+ sales  
+  https://themeforest.net/item/aqua-spa-and-beauty-responsive-woocommerce-wordpress-theme/11936164
+
+- **CakePHP Project**  
+  http://nextversion.z0gravity.com/
 ---
 
 ## 🛠 Core Tech Stack (WordPress-Focused)
 
 ### WordPress & PHP
 - WordPress Core
+- Elementor (Custom Widgets & Extensions)
 - Custom Themes & Plugins
 - WooCommerce
 - PHP (Laravel, CakePHP)
