@@ -68,14 +68,16 @@ I believe WordPress is not just a CMS — it’s a **powerful application framew
 
 ## 📊 Weekly Development Activity
 
-> WakaTime reflects recent work including JavaScript/TypeScript for Gutenberg, admin UI, and build tooling.  
-> My **primary focus remains WordPress backend & PHP systems**.
-
 <!--START_SECTION:waka-->
-PHP          ███████████▒░░░░░░░░░░░░   WordPress core, plugins & backend  
-JavaScript   █████▒░░░░░░░░░░░░░░░░░░   Gutenberg & admin UI  
-TypeScript   ██▒░░░░░░░░░░░░░░░░░░░░░   Build tools & blocks  
-Bash / YAML  █▓░░░░░░░░░░░░░░░░░░░░░░   CI/CD & deployment  
+
+```txt
+Wordpress        6 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.28 %
+PHP- Laravel     4 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   27.49 %
+TypeScript       1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Bash             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+YAML             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -86,16 +88,6 @@ Bash / YAML  █▓░░░░░░░░░░░░░░░░░░░░�
 - No over-engineering  
 - Performance & maintainability first  
 - WordPress should behave like a **real software system**, not just a CMS  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietpro123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
-
-</div>
 
 ---
 
