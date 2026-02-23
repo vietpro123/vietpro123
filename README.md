@@ -12,7 +12,7 @@
 ---
 ## 🧠 Professional Summary
 
-Senior **Backend & WordPress Engineer** with **10+ years of experience** in backend development using **Pure PHP, Laravel, and CakePHP**, and **7+ years specializing in advanced WordPress solutions**.
+Senior **Backend & WordPress Engineer** with **13+ years of experience** in backend development using **Pure PHP, Laravel, and CakePHP**, and **7+ years specializing in advanced WordPress solutions**.
 
 I have a strong track record of building **production-ready products from scratch**, with a strong focus on **scalability, maintainability, security, and real-world performance**.  
 My work consistently delivers business value and long-term stability for clients and teams.
@@ -26,7 +26,7 @@ My work consistently delivers business value and long-term stability for clients
 
 ## ✅ Why Work With Me
 
-- **10+ years** of backend development with **PHP, Laravel, CakePHP**  
+- **13+ years** of backend development with **PHP, Laravel, CakePHP**  
   → clean, secure, scalable, and maintainable code
 - **7+ years** of full-stack development with **WordPress + Elementor**
 - **Advanced Elementor expertise**:
